@@ -25,6 +25,27 @@ Vocês vão criar uma página onde dá para **cadastrar receitas e despesas**, v
 
 ---
 
+## 🤖 Regra: IA só para consulta
+
+Neste desafio a IA (ChatGPT, Claude, Gemini, Copilot etc.) pode ser usada **apenas como consulta**, do mesmo jeito que vocês usariam a documentação ou perguntariam a um professor. **O código quem escreve são vocês.**
+
+✅ **Pode:**
+
+- Perguntar o que é um conceito: _"o que o `addEventListener` faz?"_, _"qual a diferença entre `let` e `const`?"_
+- Pedir para explicar uma mensagem de erro
+- Pedir para explicar um trecho de código que **vocês** escreveram e não entenderam por que funciona (ou não)
+
+❌ **Não pode:**
+
+- Pedir para a IA escrever o código (nem "só essa função")
+- Colar este README ou partes do projeto e pedir a solução
+- Copiar e colar código gerado por IA
+- Usar autocompletar de IA no editor (Copilot, Cursor Tab, Codeium etc.). Desliguem durante o desafio
+
+> **Regra de ouro:** se você não consegue explicar uma linha do seu código, ela não deveria estar lá. Na revisão do Pull Request, o colega pode pedir para explicar qualquer linha.
+
+---
+
 ## 📋 Requisitos
 
 ### HTML (estrutura)
